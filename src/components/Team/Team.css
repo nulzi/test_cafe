@@ -1,0 +1,71 @@
+.TableTeam {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  background-color: #fad200;
+  border-radius: 3px;
+  color: black;
+  padding: 12px 10px;
+  margin: 3px 8px;
+  box-sizing: border-box;
+}
+
+.Team {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  background-color: #ffc74e;
+  border-radius: 3px;
+  color: black;
+  padding: 12px 10px;
+  margin: 3px 8px;
+  box-sizing: border-box;
+  min-width: 320px;
+}
+
+.quarterWidth {
+  width: 22.5%;
+}
+
+.TableTeam:hover .Team:hover {
+  cursor: move;
+  transform: scale(1.2);
+  background-color: black;
+}
+
+.iconContainer {
+  width: 25px;
+  height: 25px;
+}
+
+.iconContainer:hover {
+  transform: scale(1.5);
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  column-gap: 3;
+  flex-wrap: wrap;
+  input {
+    /* min-width: 122px; */
+    max-width: 190px;
+  }
+}
+
+input,
+textarea {
+  border: none;
+  border-bottom: 1px solid black;
+  font-size: 1.05rem;
+}
+
+.TableTeam input,
+.TableTeam textarea {
+  background-color: #fad200;
+}
+
+.Team input,
+.Team textarea {
+  background-color: #ffc74e;
+}
