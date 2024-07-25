@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test-cafe/static/css/main.08b0df51.css",
-    "main.js": "/test-cafe/static/js/main.7b748059.js",
-    "static/js/453.ef5db0c4.chunk.js": "/test-cafe/static/js/453.ef5db0c4.chunk.js",
-    "service-worker.js": "/test-cafe/service-worker.js",
-    "index.html": "/test-cafe/index.html",
-    "main.08b0df51.css.map": "/test-cafe/static/css/main.08b0df51.css.map",
-    "main.7b748059.js.map": "/test-cafe/static/js/main.7b748059.js.map",
-    "453.ef5db0c4.chunk.js.map": "/test-cafe/static/js/453.ef5db0c4.chunk.js.map"
+    "main.css": "/test_cafe/static/css/main.08b0df51.css",
+    "main.js": "/test_cafe/static/js/main.71343b19.js",
+    "static/js/453.ef5db0c4.chunk.js": "/test_cafe/static/js/453.ef5db0c4.chunk.js",
+    "service-worker.js": "/test_cafe/service-worker.js",
+    "index.html": "/test_cafe/index.html",
+    "main.08b0df51.css.map": "/test_cafe/static/css/main.08b0df51.css.map",
+    "main.71343b19.js.map": "/test_cafe/static/js/main.71343b19.js.map",
+    "453.ef5db0c4.chunk.js.map": "/test_cafe/static/js/453.ef5db0c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08b0df51.css",
-    "static/js/main.7b748059.js"
+    "static/js/main.71343b19.js"
   ]
 }
