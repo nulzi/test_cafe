@@ -29,7 +29,7 @@
     "workbox-strategies": "^6.6.0",
     "workbox-streams": "^6.6.0"
   },
-  "homepage": "https://nulzi.github.io/Cafe_FE/",
+  "homepage": "https://nulzi.github.io/test_cafe/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

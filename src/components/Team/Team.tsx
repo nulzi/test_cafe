@@ -218,9 +218,8 @@ const Team: FC<TTeamProps> = ({ team, index }) => {
                 justifyContent: "center",
                 alignItems: "center",
               }}
-              onClick={handleOpen}
             >
-              결제 내역
+              <span onClick={handleOpen}>결제 내역</span>
               {teamData.teamType === "exit" ? null : isOpen ? (
                 <IoMdArrowDropdown style={{ width: 25, height: 25 }} />
               ) : (

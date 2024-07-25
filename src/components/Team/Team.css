@@ -65,7 +65,15 @@ textarea {
   background-color: #fad200;
 }
 
+.TableTeam input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 30px #fad200 inset !important;
+}
+
 .Team input,
 .Team textarea {
   background-color: #ffc74e;
+}
+
+.Team input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 30px #ffc74e inset !important;
 }
